@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Globe, Stethoscope, GraduationCap, CheckCircle } from "lucide-react";
-import heroBg from "@/assets/certification-hero.png";
+import heroBg from "@/assets/certification-hero.webp";
 
 const HeroSection = () => {
   const scrollToSection = (id: string) => {
